@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/interior_floor.obj-6a107aa95879079946719bc1a33acbe0.mesh"
+
+[deps]
+
+files=[ "res://.import/interior_floor.obj-6a107aa95879079946719bc1a33acbe0.mesh" ]
+
+source_file="res://afd_modules/interior_floor.obj"
+dest_files=[ "res://.import/interior_floor.obj-6a107aa95879079946719bc1a33acbe0.mesh", "res://.import/interior_floor.obj-6a107aa95879079946719bc1a33acbe0.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

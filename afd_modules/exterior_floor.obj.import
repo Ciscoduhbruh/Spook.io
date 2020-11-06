@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/exterior_floor.obj-d2e4d48a02ad396a94309d814bca7d78.mesh"
+
+[deps]
+
+files=[ "res://.import/exterior_floor.obj-d2e4d48a02ad396a94309d814bca7d78.mesh" ]
+
+source_file="res://afd_modules/exterior_floor.obj"
+dest_files=[ "res://.import/exterior_floor.obj-d2e4d48a02ad396a94309d814bca7d78.mesh", "res://.import/exterior_floor.obj-d2e4d48a02ad396a94309d814bca7d78.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

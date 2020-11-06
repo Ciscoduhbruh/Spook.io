@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/interior_wall_variant_2.obj-c8c58741e88c1c41d0ecbacdcdede646.mesh"
+
+[deps]
+
+files=[ "res://.import/interior_wall_variant_2.obj-c8c58741e88c1c41d0ecbacdcdede646.mesh" ]
+
+source_file="res://afd_modules/interior_wall_variant_2.obj"
+dest_files=[ "res://.import/interior_wall_variant_2.obj-c8c58741e88c1c41d0ecbacdcdede646.mesh", "res://.import/interior_wall_variant_2.obj-c8c58741e88c1c41d0ecbacdcdede646.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

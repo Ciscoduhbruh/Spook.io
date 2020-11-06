@@ -1,0 +1,42 @@
+{
+	"modules": [		
+		{
+			"name": "interior_floor",
+			"mesh": "interior_floor.obj",
+			"unique_transforms": 1,
+			"sockets": {
+				"positive_x_socket" : "i",
+				"negative_z_socket" : "i",
+				"negative_x_socket" : "i",
+				"positive_z_socket" : "i"
+			}			
+		},
+		{
+			"name": "interior_wall_variant_1",
+			"mesh": "interior_wall_variant_1.obj",
+			"unique_transforms": 4,
+			"sockets": {
+				"positive_x_socket" : "l",
+				"negative_z_socket" : "i",
+				"negative_x_socket" : "r",
+				"positive_z_socket" : "e"
+			}			
+		},
+		{
+			"name": "interior_wall_variant_2",
+			"mesh": "interior_wall_variant_2.obj",
+			"unique_transforms": 4,
+			"sockets": {
+				"positive_x_socket" : "e",
+				"negative_z_socket" : "l",
+				"negative_x_socket" : "r",
+				"positive_z_socket" : "e"
+			}			
+		}
+	],
+	"rules": [
+		["l", "r"],
+		["e", "e"],
+		["i", "i"]
+	]
+}

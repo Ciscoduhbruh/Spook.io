@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/flashlight_switch_2.wav-ae382c2a306a7b018dc73da0ea38c131.sample"
+
+[deps]
+
+source_file="res://sounds/flashlight_switch_2.wav"
+dest_files=[ "res://.import/flashlight_switch_2.wav-ae382c2a306a7b018dc73da0ea38c131.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

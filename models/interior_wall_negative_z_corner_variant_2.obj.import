@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/interior_wall_negative_z_corner_variant_2.obj-229a9c22a848f5606111a14d49a6278d.mesh"
+
+[deps]
+
+files=[ "res://.import/interior_wall_negative_z_corner_variant_2.obj-229a9c22a848f5606111a14d49a6278d.mesh" ]
+
+source_file="res://models/interior_wall_negative_z_corner_variant_2.obj"
+dest_files=[ "res://.import/interior_wall_negative_z_corner_variant_2.obj-229a9c22a848f5606111a14d49a6278d.mesh", "res://.import/interior_wall_negative_z_corner_variant_2.obj-229a9c22a848f5606111a14d49a6278d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

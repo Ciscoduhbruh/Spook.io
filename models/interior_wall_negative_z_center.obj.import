@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/interior_wall_negative_z_center.obj-20ae66dfaa4944f52d7d4b7cdbce057a.mesh"
+
+[deps]
+
+files=[ "res://.import/interior_wall_negative_z_center.obj-20ae66dfaa4944f52d7d4b7cdbce057a.mesh" ]
+
+source_file="res://models/interior_wall_negative_z_center.obj"
+dest_files=[ "res://.import/interior_wall_negative_z_center.obj-20ae66dfaa4944f52d7d4b7cdbce057a.mesh", "res://.import/interior_wall_negative_z_center.obj-20ae66dfaa4944f52d7d4b7cdbce057a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
